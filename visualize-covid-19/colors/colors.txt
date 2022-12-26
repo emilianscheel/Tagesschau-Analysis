@@ -1,0 +1,33 @@
+# ORANGE
+- color: #f2cc8f
+- edgecolor: #e07a5f
+
+# BLUE
+- color: #8ecae6
+- edgecolor: #219ebc
+
+
+
+
+# DARK ORANGE
+- color: #DC921A
+- edgecolor: #7A510E
+
+
+# DARK BLUE
+- color: #257EA7
+- edgecolor: #156579
+
+
+
+
+
+#ff6b35
+
+#f7c59f
+
+#efefd0
+
+#004e89
+
+#1a659e

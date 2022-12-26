@@ -6,3 +6,23 @@
 - More colors
 - Global settings: database file, period of time
 -
+
+- In welche Themengebiete teilen sich Ausland/Inland auf?
+
+- Klimawandel -> Klimakatastrophe
+- Kein Ressort Namen
+
+- über dem 6. Platz -> Anzahl Artikel auf den ersten 5. Plätzen
+
+- Themengebiete sind orange
+- Themengebiete sind blau
+
+-
+
+Ablauf für jede Auswertung
+
+- Zeitraum eingegrenzt
+- Richtige Datenbank ausgewählt
+
+- Diagramme in einem JS:Objekt beschreiben
+  - short als :::covid

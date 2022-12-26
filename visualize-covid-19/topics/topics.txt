@@ -1,4 +1,4 @@
-# Ukraine-Krieg
+# Ukraine-Krieg:::ukraine
 - Krieg gegen die Ukraine
 - Ukraine-Krieg
 - Sanktionen gegen Russland
@@ -11,12 +11,12 @@
 - Flugabwehrraketen
 - Waffenlieferung
 
-# Proteste im Iran
+# Proteste im Iran:::iran
 - Iran
 - Proteste im Iran
 - Festnahme iranischer Schauspielerin
 
-# Covid-19-Pandemie
+# Covid-19-Pandemie:::covid
 - Corona
 - Corona-Lage
 - Corona-Impfungen
@@ -34,7 +34,7 @@
 - Virologe
 - Corona-Wiederaufbaufonds
 
-# Klimawandel
+# Klimawandel:::climate
 - Klimawandel
 - Klimakrise
 - Klimaschutz
@@ -51,13 +51,13 @@
 
 
 
-# Letzte Generation
+# Letzte Generation:::lastgeneration
 - Klimaprotest
 - Letzte Generation
 
 
 
-# Energiekrise & Inflation
+# Energiekrise & Inflation:::inflation
 - Kampf gegen die Energiekrise
 - Inflation
 - Energiekosten

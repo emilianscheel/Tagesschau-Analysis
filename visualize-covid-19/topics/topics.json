@@ -1,5 +1,7 @@
 {
-    "Ukraine-Krieg": {
+    "ukraine": {
+        "name": "Ukraine-Krieg",
+        "short": "ukraine",
         "keywords": [
             "Krieg gegen die Ukraine",
             "Ukraine-Krieg",
@@ -14,14 +16,18 @@
             "Waffenlieferung"
         ]
     },
-    "Proteste im Iran": {
+    "iran": {
+        "name": "Proteste im Iran",
+        "short": "iran",
         "keywords": [
             "Iran",
             "Proteste im Iran",
             "Festnahme iranischer Schauspielerin"
         ]
     },
-    "Covid-19-Pandemie": {
+    "covid": {
+        "name": "Covid-19-Pandemie",
+        "short": "covid",
         "keywords": [
             "Corona",
             "Corona-Lage",
@@ -41,7 +47,9 @@
             "Corona-Wiederaufbaufonds"
         ]
     },
-    "Klimawandel": {
+    "climate": {
+        "name": "Klimawandel",
+        "short": "climate",
         "keywords": [
             "Klimawandel",
             "Klimakrise",
@@ -58,13 +66,17 @@
             "Strukturwandel und Klimaschutz"
         ]
     },
-    "Letzte Generation": {
+    "lastgeneration": {
+        "name": "Letzte Generation",
+        "short": "lastgeneration",
         "keywords": [
             "Klimaprotest",
             "Letzte Generation"
         ]
     },
-    "Energiekrise & Inflation": {
+    "inflation": {
+        "name": "Energiekrise & Inflation",
+        "short": "inflation",
         "keywords": [
             "Kampf gegen die Energiekrise",
             "Inflation",
