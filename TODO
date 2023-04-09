@@ -1,28 +1,22 @@
-- Diagramm-Datei-Bezeichnungen korrekt
-- Smooth Line Graph
-- Trendline Bar/Line Graph
-- Diagrams are plotted fully
-- Optimize size of plots
-- More colors
-- Global settings: database file, period of time
--
-
 - In welche Themengebiete teilen sich Ausland/Inland auf?
 
 - Klimawandel -> Klimakatastrophe
-- Kein Ressort Namen
+- Balkendiagramm Textlänge blau-Ressort / orange-Thema
 
-- über dem 6. Platz -> Anzahl Artikel auf den ersten 5. Plätzen
+# Hinweise
 
-- Themengebiete sind orange
-- Themengebiete sind blau
+- Diagramme voll abgebildet?
+- Diagramm-Datei-Bezeichnungen korrekt?
+- Größe/Seitenverhältnisse optimal?
+- Zeitraum eingegrenzt?
+- Richtige Datenbank ausgewählt?
 
--
+- Sind die Themengebiete in Orange?
+- Sind die Ressorts in Blau?
 
-Ablauf für jede Auswertung
+# Fertig
 
-- Zeitraum eingegrenzt
-- Richtige Datenbank ausgewählt
-
-- Diagramme in einem JS:Objekt beschreiben
-  - short als :::covid
+- Smooth Line Graph -> interpolation function
+- Global settings: database file, period of time -> config.ini
+- More colors -> colors/
+- Trendline Bar/Line Graph -> plot_trendline function
